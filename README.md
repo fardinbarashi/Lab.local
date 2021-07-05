@@ -6,9 +6,12 @@ This Rep is basically my work test-env at home.
 1. Create Enviroment in Hyper V.Ps1
   
   The image in my Env is Generation 2 based, You need to rename the VHDX image after string.
+  
   See String at line 19 and 20
-  $GoldenImageServer = "$PSScriptRoot\Windows Server 2016.vhdx"
-  $GoldenImageClient = "$PSScriptRoot\Windows 10.vhdx"
+  
+  * $GoldenImageServer = "$PSScriptRoot\Windows Server 2016.vhdx"
+  * $GoldenImageClient = "$PSScriptRoot\Windows 10.vhdx"
+
 
    1. Creates folders after the string $ServerCollection
    2. Creates folders after the string $ClientCollection
