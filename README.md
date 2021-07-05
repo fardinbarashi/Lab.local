@@ -2,6 +2,7 @@
 This Rep is basically my work test-env at home. 
 
 1. Create Enviroment in Hyper V.Ps1
+  
   The image in my Env is Generation 2 based, You need to rename the VHDX image after string.
   See String at line 19 and 20
   $GoldenImageServer = "$PSScriptRoot\Windows Server 2016.vhdx"
@@ -17,7 +18,8 @@ This Rep is basically my work test-env at home.
       * InternalNic
       * PrivatNic 
    7. Create Vm in hyper-V
-
+   8. 
+---------------------------------------------------------------------------------------------
 Step 2 - Configuration DC01 Part 1 - Start VM.ps1
  Starts-Vm
 
