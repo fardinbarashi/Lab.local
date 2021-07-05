@@ -1,6 +1,8 @@
 # Lab.local
 This Rep is basically my work test-env at home. 
 
+---------------------------------------------------------------------------------------------
+
 1. Create Enviroment in Hyper V.Ps1
   
   The image in my Env is Generation 2 based, You need to rename the VHDX image after string.
@@ -18,7 +20,7 @@ This Rep is basically my work test-env at home.
       * InternalNic
       * PrivatNic 
    7. Create Vm in hyper-V
-   8. 
+  
 ---------------------------------------------------------------------------------------------
 Step 2 - Configuration DC01 Part 1 - Start VM.ps1
  Starts-Vm
@@ -35,6 +37,6 @@ Step 2 - Configuration DC01 Part 3 - Install Role.ps1
   2. Promte Server to domain controller
    Line 57, type in password
    
-  
+---------------------------------------------------------------------------------------------  
 
  
