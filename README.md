@@ -23,19 +23,20 @@ This Rep is basically my work test-env at home.
   
 ---------------------------------------------------------------------------------------------
 Step 2 - Configuration DC01 Part 1 - Start VM.ps1
- Starts-Vm
+* Starts-Vm
 
 Step 2 - Configuration DC01 Part 2 - Change Nic, RenamePc.Ps1
- Rename Computer after role, Changes nic-settings, ges
+* Rename Computer after role, Changes nic-settings, ges
 
 Step 2 - Configuration DC01 Part 3 - Install Role.ps1
-  1. Install Roles
+Install Roles
      * AD-Domain-Services
      * DHCP
      * DNS
 
-  2. Promte Server to domain controller
-   Line 57, type in password
+Promte Server to domain controller
+   
+* Line 57, type in password *
    
 ---------------------------------------------------------------------------------------------  
 
