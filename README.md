@@ -42,5 +42,11 @@ Promte Server to domain controller
 * Line 57, type in password *
    
 ---------------------------------------------------------------------------------------------  
+Configure Clients
 
+Step 3 - Configuration Client01, Client02, Client03 Part 1 - Start VM.ps1
+Step 3 - Configuration Client01, Client02, Client03 Part 2 - Change Nic, RenamePc.ps1
+Step 3 - Configuration Client01, Client02, Client03 Part 3 - Join Domain.ps1
+
+ 
  
